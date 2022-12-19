@@ -16,3 +16,8 @@ O jogo consiste em uma partida de jogo da velha com o tema Patriotas x Trabalhad
 Como jogar:
 
 Para jogar basta digitar de 1 a 9 baseado em onde o jogador quer posicionar sua letra no tabuleiro. Quando um ganhador for identificado, o jogo irá anunciar a vitória da letra ganhadora e, para continuar jogando, basta digitar ESPAÇO. Em casa de velha, uma outra tela irá anunciar o empate.
+
+
+
+
+Link para vídeo: https://youtu.be/KHNYgREmD5g
