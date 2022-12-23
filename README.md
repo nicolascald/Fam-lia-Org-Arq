@@ -3,8 +3,11 @@ Jogo feito para a disciplina Organização e Arquitetura de Computadores.
 Integrantes:
 
 Matheus dos Santos Inês (12546784)
+
 Mateus Curtolo de Goes (12675997)
+
 Barbara Fernandes Madera (11915032)
+
 Nicolas Cruz Caldeira (11882624)
 
 
@@ -27,8 +30,11 @@ PROJETO 2 (SUBSTITUTO DA PROVA)
 Processador feito pelo grupo:
 
 Matheus dos Santos Inês (12546784)
+
 Mateus Curtolo de Goes (12675997)
+
 Barbara Fernandes Madera (11915032)
+
 Nicolas Cruz Caldeira (11882624)
 
 →Link para a interface web onde podemos simular o processador: https://www.edaplayground.com/x/Heqh
